@@ -11,14 +11,6 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 250px;
-}
-</style>
 </head>
 <body>
 
