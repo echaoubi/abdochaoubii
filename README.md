@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>Use the border property to create thumbnail images:</p>
 
-<img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:150px">
+<img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:450px">
 
 </body>
 </html>
