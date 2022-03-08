@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <html>
 <head>
 <style>
-img {
+.img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
