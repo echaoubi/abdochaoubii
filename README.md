@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 }</style>
   </head><body>   
 
-<img src="paris.jpg" alt="Paris"><h1> hi eveyone</h1><body></html>
+<img src="https://www.w3schools.com/css/paris.jpg" alt="Paris"><h1> hi eveyone</h1><body></html>
