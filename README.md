@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdochaoubi
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding all the time 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me <img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:40px">
 
 <!---
 abdochaoubi/abdochaoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
 
-<h2>Thumbnail Image</h2>
-
-<p>Use the border property to create thumbnail images:</p>
-
+<h2> Codewars Profile Badges</h2>
 <img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:450px">
 
 </body>
