@@ -26,7 +26,7 @@ img {
 
 <p>Use the border property to create thumbnail images:</p>
 
-<img src="https://www.w3schools.com/css/img_5terre_wide.jpg" alt="Paris" style="width:150px">
+<img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:150px">
 
 </body>
 </html>
