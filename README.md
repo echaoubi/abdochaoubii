@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding all the time 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  <a href="https://twitter.com/intent/tweet?screen_name=echaoubiabdo&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @echaoubiabdo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- 📫 How to reach me  <div><a href="https://twitter.com/intent/tweet?screen_name=echaoubiabdo&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @echaoubiabdo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <!---
 abdochaoubi/abdochaoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
