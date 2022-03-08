@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding all the time 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:40px">
+- 📫 How to reach me <i class="fa-brands fa-twitter"></i>
 
 <!---
 abdochaoubi/abdochaoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
