@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding all the time 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  <div > <a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50" ></a> <div>
+- 📫 How to reach me  <div > <a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50" ></a> </div>
 
 <!---
 abdochaoubi/abdochaoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
