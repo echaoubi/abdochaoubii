@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @abdochaoubi
-- 👀 I’m interested in coding all the time 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >ABDERRAZZAK ECHAOUBI</h1></p>
 ## 📫 How to reach me :
 <p align="center"><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="70"></a>
 </p>
