@@ -13,8 +13,10 @@ You can click the Preview link to take a look at your changes.
 <head>
 </head>
 <body>
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h2> Codewars Profile Badges</h2>
 <img src="https://www.codewars.com/users/abdochaoubi/badges/large" alt="Paris" style="width:450px">
 </body>
 </html>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
