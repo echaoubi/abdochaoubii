@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 # 📫 How to reach me :
-<html><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50"></a></html>
+<a href="https://twitter.com/echaoubiabdo" margin-left ="30px"> <img src="iconmonstr-twitter-5-240.png" width ="50"></a>
 # My GitHub stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubi)](https://github.com/anuraghazra/github-readme-stats) 
 #  Codewars Profile Badges
