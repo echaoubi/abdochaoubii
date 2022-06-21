@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 ## 📫 How to reach me :
-------------------------   <a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50"></a>------------------------
-<p align="center">
-  <img src="iconmonstr-twitter-5-240.png" />
+<p align="center"><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50"></a>
 </p>
+
+
 ## My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical)
 
