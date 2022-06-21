@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 ## 📫 How to reach me :
-<p align="center"><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="50"></a>
+<p align="center"><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="70"></a>
 </p>
 
 
