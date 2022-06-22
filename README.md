@@ -1,6 +1,9 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >ABDERRAZZAK ECHAOUBI</h1></p>
 
-![This is an image](https://i.gifer.com/8xi3.gif)
+</p>
+<p align="center">  
+<img src ="https://i.gifer.com/8xi3.gif">
+</p>
 
 
 ## 📫 How to reach me :
