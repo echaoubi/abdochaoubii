@@ -16,3 +16,4 @@
 <p align="center"  style=" border-radius: 30%;"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style=" border-radius: 8px;"></p>
 
 
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/oakoudad/badge42)
