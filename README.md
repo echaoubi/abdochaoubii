@@ -13,6 +13,6 @@
 ![This is an image](https://www.codewars.com/users/abdochaoubi/badges/large)
 
 ##  Codewars Profile Badges
-<p align="center"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style="border-radius: 10%;"></p>
+<p align="center"  style="border-radius: 10%;"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style="border-radius: 10%;"></p>
 
 
