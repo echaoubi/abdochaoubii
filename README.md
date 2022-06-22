@@ -1,5 +1,8 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >ABDERRAZZAK ECHAOUBI</h1></p>
 
+![This is an image](https://i.gifer.com/8xi3.gif)
+
+
 ## 📫 How to reach me :
 <p align="center"><a href="https://twitter.com/echaoubiabdo"> <img src="iconmonstr-twitter-5-240.png" width ="70"></a>
 </p>
@@ -11,6 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ##  Codewars Profile Badges
 ![This is an image](https://www.codewars.com/users/abdochaoubi/badges/large)
+
+
+
 
 ##  Codewars Profile Badges
 <p align="center"  style=" border-radius: 30%;"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style=" border-radius: 8px;"></p>
