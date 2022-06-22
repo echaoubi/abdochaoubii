@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src ="https://github.com/abdochaoubi/abdochaoubi/blob/main/8xi3.gif" width ="90%" height ="70">
+<img src ="https://github.com/abdochaoubi/abdochaoubi/blob/main/8xi3.gif" width ="90%" height ="160">
 </p>
 
 
