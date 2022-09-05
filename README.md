@@ -11,6 +11,7 @@
   </p>  
  <div align="center">
   
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/cos18/))
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cos18/)](https://www.linkedin.com/in/cos18/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cos.sungwoo/)](https://www.facebook.com/cos.sungwoo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codest99@gmail.com)](mailto:codest99@gmail.com)
