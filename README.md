@@ -6,7 +6,7 @@
 </p>
 
 
-## 📫 How to reach me :
+## 🔗  Connect with me :
  <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/echaoubiabdo)](https://twitter.com/echaoubiabdo)
