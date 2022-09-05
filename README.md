@@ -36,8 +36,8 @@
 <div align="center" >
 <a  href="https://github.com/abdochaoubi">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" >
+<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 197px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 197px;">
 
 </a>
 <hr></hr>
