@@ -7,7 +7,7 @@
 
 
 ## 📫 How to reach me :
-<p align="center"><a href="https://twitter.com/echaoubiabdo"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a><a href="https://instagram.com/eshaubi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdochaoubi" height="30" width="40" /></a>
+<p align="center"><a href="https://twitter.com/echaoubiabdo"> <img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a><a href="https://instagram.com/eshaubi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdochaoubi" height="30" width="40" /></a>
 </p>
 
 
