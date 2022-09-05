@@ -33,12 +33,6 @@
   </div>
   
 ## My GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-##  Codewars Profile Badges
-![This is an image](https://www.codewars.com/users/abdochaoubi/badges/large)
-
 <div align="center" >
 <a  href="https://github.com/abdochaoubi">
 
@@ -51,6 +45,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
+
+
+##  Codewars Profile Badges
+![This is an image](https://www.codewars.com/users/abdochaoubi/badges/large)
+
 
 
 
