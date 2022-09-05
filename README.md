@@ -7,8 +7,6 @@
 
 
 ## 📫 How to reach me :
-<p align="center"><a href="https://twitter.com/echaoubiabdo"> <img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a><a href="https://instagram.com/eshaubi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdochaoubi" height="30" width="40" /></a>
-  </p>  
  <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/echaoubiabdo)](https://twitter.com/echaoubiabdo)
@@ -19,6 +17,9 @@
 </div>
 
 ## 💻
+
+ <div align="center">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
@@ -29,6 +30,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+  </div>
+  
 ## My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical)
 
