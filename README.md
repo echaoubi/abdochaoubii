@@ -36,8 +36,8 @@
 <div align="center" >
 <a  href="https://github.com/abdochaoubi">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 197px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 197px;">
+<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 195px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 195px;">
 
 </a>
 <hr></hr>
@@ -47,18 +47,17 @@
 </div>
 
 
-##  Codewars Profile Badges
-![This is an image](https://www.codewars.com/users/abdochaoubi/badges/large)
 
 
 
 
-##  Codewars Profile Badges
+##  42 Profile Badges
 <p align="center"  style=" border-radius: 30%;"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style=" border-radius: 8px;"></p>
 
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/oakoudad/badge42)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
+ 
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
  
  
