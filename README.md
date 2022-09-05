@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 195px;">
 
 </a>
-<hr></hr>
+ <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
@@ -52,7 +52,6 @@
 
 
 ##  42 Profile Badges
-<p align="center"  style=" border-radius: 30%;"><img src="https://github.com/abdochaoubi/abdochaoubi/blob/main/pool13.PNG" style=" border-radius: 8px;"></p>
 
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
