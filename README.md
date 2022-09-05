@@ -12,8 +12,8 @@
  <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/echaoubiabdo)](https://twitter.com/echaoubiabdo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/echaoubi/)](https://www.linkedin.com/in/echaoubi/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:echaoubiabderrazzak@gmail.com)](mailto:codest99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/echaoubi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:echaoubiabderrazzak@gmail.com)](mailto:echaoubiabderrazzak@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eshaubi_/)](https://www.instagram.com/eshaubi_/)
 
 </div>
