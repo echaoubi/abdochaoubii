@@ -9,11 +9,15 @@
 ## 📫 How to reach me :
 <p align="center"><a href="https://twitter.com/echaoubiabdo"> <img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a><a href="https://instagram.com/eshaubi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdochaoubi" height="30" width="40" /></a>
   </p>  
- 
+ <p dir="auto" align="center">
+  
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cos18/)](https://www.linkedin.com/in/cos18/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cos.sungwoo/)](https://www.facebook.com/cos.sungwoo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codest99@gmail.com)](mailto:codest99@gmail.com)
   
+  
+  </p>
 <p dir="auto" align="center"><a href="https://www.linkedin.com/in/cos18/" rel="nofollow"><img src="https://camo.githubusercontent.com/323f76e2af97240b41f250039419f855095f1117f9b7a1960b2ae4beffedc66f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f636f7331382f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/cos18/" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/cos.sungwoo/" rel="nofollow"><img src="https://camo.githubusercontent.com/03c58c95952fc40429d9b8d07af9d1ccf0c423f92f5a4bbfb3c91f95a919f0f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d3138373766323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e66616365626f6f6b2e636f6d2f636f732e73756e67776f6f2f" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/cos.sungwoo/" style="max-width: 100%;"></a>
 <a href="mailto:codest99@gmail.com"><img src="https://camo.githubusercontent.com/c4da95aadaac9d0af91f5c70c8e0ca3f16f8f9948e5632ef1d82834a97c2ffbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a636f64657374393940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:codest99@gmail.com" style="max-width: 100%;"></a></p>
