@@ -54,6 +54,7 @@
 
 ##  42 Profile Badges
 
+ <div align="center">
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
  
@@ -61,3 +62,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
  
  
+ </div>
