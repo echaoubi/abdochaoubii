@@ -37,8 +37,8 @@
 <div align="center" >
 <a  href="https://github.com/abdochaoubi">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 195px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 195px;">
+<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 180px;">
 
 </a>
  <br>
