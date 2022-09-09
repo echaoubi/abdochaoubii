@@ -2,7 +2,7 @@
 
 
 
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
 
 ## 🔗  Connect with me :
