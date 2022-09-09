@@ -1,6 +1,6 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >ABDERRAZZAK ECHAOUBI</h1></p>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" />
 </p>
 
 <p align="center">  
