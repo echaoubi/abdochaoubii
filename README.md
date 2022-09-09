@@ -1,9 +1,8 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" >ABDERRAZZAK ECHAOUBI</h1></p>
 <p align="center">  
-<img src ="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"><br>
+<img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F901&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
-<br>
 
 ## 🔗  Connect with me :
  <div align="center">
