@@ -79,8 +79,14 @@
 [![aechaoub's 42 stats](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/stats?cursusId=21&coalitionId=279)](https://github.com/JaeSeoKim/badge42)
  
  [![aechaoub's 42 Libft Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2809848)](https://github.com/JaeSeoKim/badge42)
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
+
+ LIBFT : [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
  
+  FT_PRINTF : [![aechaoub's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2831492)](https://github.com/JaeSeoKim/badge42)
+ 
+  GET_NEXT_LINE : [![aechaoub's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2838112)](https://github.com/JaeSeoKim/badge42)
+ 
+  BORN2BEROOT : [![aechaoub's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/project/2875962)](https://github.com/JaeSeoKim/badge42)
  
  </div>
  <p align="center">
