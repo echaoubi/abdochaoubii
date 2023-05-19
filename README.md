@@ -53,20 +53,12 @@
   
 ## My GitHub stats
 <div align="center" >
-<a  href="https://github.com/abdochaoubi">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubi&show_icons=true&theme=radical" style="    height: 180px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubi&layout=compact&theme=dracula" style="    height: 180px;">
-
-</a>
- <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+	| [![aizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubii&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) |
+|:-:|:-:|
 
 </div>
 
-| [![aizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubii&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) |
-|:-:|:-:|
 
 <p align="center">
 	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=abdochaoubii&color=8c36db&style=flat&label=visitors" />
