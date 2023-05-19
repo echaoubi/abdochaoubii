@@ -53,18 +53,19 @@
   
 ## My GitHub stats
 <div align="center" >
+<a  href="https://github.com/abdochaoubi">
 
-[![aizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdochaoubii&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdochaoubii) |
-|:-:|:-:|
+<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubii&show_icons=true&theme=radical" style="    height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubii&layout=compact&theme=dracula" style="    height: 180px;">
+
+</a>
+ <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
 
 
-<p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=abdochaoubii&color=8c36db&style=flat&label=visitors" />
-	<img alt="abdochaoubii's followers" src="https://img.shields.io/github/followers/abdochaoubii?color=blueviolet" />
-	<img alt="abdochaoubii's stars" src="https://img.shields.io/github/stars/abdochaoubii?color=blueviolet" />
-</p>
 
 
 
@@ -79,11 +80,10 @@
  
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubi)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubii)](https://github.com/ryo-ma/github-profile-trophy)
  
  </div>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
