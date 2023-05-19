@@ -66,6 +66,11 @@
 </div>
 
 
+<p align="center">
+	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=abdochaoubii&color=8c36db&style=flat&label=visitors" />
+	<img alt="abdochaoubii's followers" src="https://img.shields.io/github/followers/abdochaoubii?color=blueviolet" />
+	<img alt="abdochaoubii's stars" src="https://img.shields.io/github/stars/abdochaoubii?color=blueviolet" />
+</p>
 
 
 
