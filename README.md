@@ -53,10 +53,10 @@
   
 ## My GitHub stats
 <div align="center" >
-<a  href="https://github.com/abdochaoubi">
+<a  href="https://github.com/echaoubi">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdochaoubii&show_icons=true&theme=radical" style="    height: 180px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdochaoubii&layout=compact&theme=dracula" style="    height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api?username=echaoubi&show_icons=true&theme=radical" style="    height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaoubi&layout=compact&theme=dracula" style="    height: 180px;">
 
 </a>
  <br>
@@ -80,7 +80,7 @@
  
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=abdochaoubii)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi)](https://github.com/ryo-ma/github-profile-trophy)
  
  </div>
  <p align="center">
