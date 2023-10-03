@@ -76,7 +76,6 @@
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
  
-[![aechaoub's 42 stats](https://badge42.vercel.app/api/v2/clajl4f5j00830fl5wsml5ttb/stats?cursusId=21&coalitionId=279)](https://github.com/JaeSeoKim/badge42)
  
  
  
