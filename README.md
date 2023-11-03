@@ -76,12 +76,17 @@
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub/badge42)
  
- 
- 
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi)](https://github.com/ryo-ma/github-profile-trophy)
- 
  </div>
+ 
+ 
+##  Github Trophies
+
+ <div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+ </div>
+
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
