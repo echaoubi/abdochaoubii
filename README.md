@@ -45,13 +45,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
- 
- 
- 
- 
   </div>
+
+
   
-## My GitHub stats
+## 📈 My GitHub stats
 <div align="center" >
 <a  href="https://github.com/echaoubi">
 
@@ -70,7 +68,7 @@
 
 
 
-##  42 Profile Badges
+##  4️⃣2️⃣ Profile Badges
 
  <div align="center">
 
@@ -78,14 +76,18 @@
  
  </div>
  
+
+
  
-##  Github Trophies
+## 🏅 Github Trophies
 
  <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
  </div>
+
+
 
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
