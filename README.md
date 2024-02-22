@@ -81,7 +81,15 @@
  
  </div>
  
+##  CodeWars Badge
 
+
+ <div align="center">
+
+  [![CodeWars Badge](https://www.codewars.com/users/abdochaoubi/badges/large)](https://www.codewars.com/users/abdochaoubi)
+
+ </div>
+ 
 
  
 ## 🏅 Github Trophies
