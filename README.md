@@ -77,7 +77,7 @@
 
  <div align="center">
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/aechaoub)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/echaoubi)
  
  </div>
  
