@@ -1,6 +1,6 @@
  <div align="center">
 
- # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; ABDERRAZZAK ECHAOUBI &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; ABDERRAZZAK ECHAOUBI &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </div>
 
@@ -9,7 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F901&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+ABDERRAZZAK+ECHAOUBI+(AIZEN);I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
 
-## 🔗  Connect with me :
+## 🔗 Connect with me :
+
  <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/echaoubiabdo)](https://twitter.com/echaoubiabdo)
@@ -19,8 +20,7 @@
 
 </div>
 
-## 💻  Technologies and Tools I use:
-
+## 💻 Technologies and Tools I use:
 
  <div align="center">
 
@@ -52,9 +52,8 @@
 
   </div>
 
-
-  
 ## 📈 My GitHub stats
+
 <div align="center" >
 <a  href="https://github.com/echaoubi">
 
@@ -68,39 +67,43 @@
 
 </div>
 
-
-
-
-
-
-##  4️⃣2️⃣ Profile Badges
+## 4️⃣2️⃣ Profile Badges
 
  <div align="center">
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aechaoub)](https://github.com/echaoubi)
- 
+
  </div>
  
-##  CodeWars Badge
+## 🌟 Codingame Certifications
 
+  <div  style="display: flex; align-items: center;  justify-content: space-around; gap:3%">
+      <!-- First picture -->
+      <div>
+          <img src="./CERTIFICATIONCodingspeed.png" alt="First Picture">
+      </div>
+      <div>
+          <img src="./CERTIFICATIONCodingspeed.png" alt="First Picture">
+      </div>
+
+  </div>
+
+## 🛡️ CodeWars Badge
 
  <div align="center">
 
-  [![CodeWars Badge](https://www.codewars.com/users/abdochaoubi/badges/large)](https://www.codewars.com/users/abdochaoubi)
+[![CodeWars Badge](https://www.codewars.com/users/abdochaoubi/badges/large)](https://www.codewars.com/users/abdochaoubi)
 
  </div>
- 
 
- 
+
 ## 🏅 Github Trophies
 
  <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=echaoubi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
  </div>
-
-
 
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
