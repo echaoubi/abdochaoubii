@@ -77,16 +77,17 @@
  
 ## 🌟 Codingame Certifications
 
-  <div  style="display: flex; align-items: center;  justify-content: space-around; gap:3%">
-      <!-- First picture -->
-      <div>
-          <img src="./CERTIFICATIONCodingspeed.png" alt="First Picture">
-      </div>
-      <div>
-          <img src="./CERTIFICATIONCodingspeed.png" alt="First Picture">
-      </div>
+<div align="center">
+    <a href="https://www.codingame.com/certification/jc028JlTJrScp8GNbyfawQ">
+        <img src="./CERTIFICATIONCodingspeed.png" alt="First Picture" width="45%">
+    </a>
+    <a href="https://www.codingame.com/certification/i8WscaY0-sbX9qjPJhfFWA">
+        <img src="./CERTIFICATIONArtificialIntelligence.png" alt="Second Picture" width="45%">
+    </a>
+</div>
 
-  </div>
+
+
 
 ## 🛡️ CodeWars Badge
 
